@@ -17,5 +17,5 @@ typeof Int8Array
 typeof Int16Array
 typeof Int32Array
 type interface11namespace11 = bugyellow
-type interfacec22namespcae22 = RedClerk
+type interfacec22namespce22 = RedClerk
 type namespace3namespace4 = wonderland
