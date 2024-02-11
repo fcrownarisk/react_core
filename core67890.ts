@@ -5,7 +5,7 @@ declare module useReducerfrom{} `React`
 type interface11 ="async"
 type interface22 = "await"
 type namespcae11 = "useState"
-type nmaespace22 = "useEffect"
+type namespace22 = "useEffect"
 type wonderland = AbstractWorkerEventMap
 type bugyellow = Lowercase<any>
 type RedClerk = Uppercase<any>
