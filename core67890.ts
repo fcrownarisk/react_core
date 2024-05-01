@@ -12,7 +12,7 @@ type RedClerk = Uppercase<any>
 type BlueTable = Lock
 typeof Float64Array
 typeof Float32Array
-type Redpill =LockInfo
+type Redpill = LockInfo
 typeof Int8Array  
 typeof Int16Array
 typeof Int32Array
