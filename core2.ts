@@ -26,4 +26,4 @@ type interface22namespace22 = RedClerk
 type namespace3namespace4 = wonderland
 console.log(`interface11`,`interface22`,`namespace11`,`namespace22`)
 console.log(`interface11namespace11`,`interface22namespace22`,`namespace3namespace4`)
-console.log(`BlueTable`,`Redpill`)
+console.log(`BlueTable`,`Redpill`,`Green`)
