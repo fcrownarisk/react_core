@@ -12,7 +12,7 @@ type RedClerk = Uppercase<any>
 type BlueTable = Lock
 typeof Float64Array
 typeof Float32Array
-type Redpill =LockInfo
+type Redpill = LockInfo
 typeof Int32Array
 typeof Int16Array
 typeof Int8Array
@@ -24,6 +24,4 @@ typeof Uint8ClampedArray
 type interface11namespace11 = bugyellow
 type interface22namespace22 = RedClerk
 type namespace3namespace4 = wonderland
-console.log(`interface11`,`interface22`,`namespace11`,`namespace22`)
-console.log(`interface11namespace11`,`interface22namespace22`,`namespace3namespace4`)
 console.log(`BlueTable`,`Redpill`,`Green`)
