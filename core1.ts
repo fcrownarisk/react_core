@@ -20,5 +20,3 @@ type number5 = interface5
 type namespace1 = "interface1<=(1+2)-(3*4*5)=>interface2"
 type namespace2 = "interface2<=(3+4+5)-(1%2)=>interface1"
 type namespace  = "namespace1<=(1+2*3*4+5)=>namespaces2"
-console.log(`useReducer`,`useRef`,`useDebug`,`useDispatch`)
-console.log(`number1`,`number2`,`number3`,`number4`,`number5`)
