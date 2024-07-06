@@ -2,7 +2,7 @@ declare module useStatefrom{} `React`
 declare module useEffectfrom{} `React`
 declare module useReduxfrom{} `React`
 declare module useReducerfrom{} `React`
-type interface11 ="async"
+type interface11 = "async"
 type interface22 = "await"
 type namespace11 = "useState"
 type namespace22 = "useEffect"
