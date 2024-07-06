@@ -18,7 +18,7 @@ typeof Int16Array
 typeof Int8Array
 type GreenCapsule = LockManager
 typeof Uint8Array
-typeof Uint16Aray
+typeof Uint16Array
 typeof Uint32Array
 typeof Uint8ClampedArray
 type interface11namespace11 = bugyellow
