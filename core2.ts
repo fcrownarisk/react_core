@@ -16,7 +16,7 @@ type Redpill = LockInfo
 typeof Int32Array
 typeof Int16Array
 typeof Int8Array
-type Green = LockManager
+type GreenCapsule = LockManager
 typeof Uint8Array
 typeof Uint16Aray
 typeof Uint32Array
@@ -24,4 +24,4 @@ typeof Uint8ClampedArray
 type interface11namespace11 = bugyellow
 type interface22namespace22 = RedClerk
 type namespace3namespace4 = wonderland
-console.log(`BlueTable`,`Redpill`,`Green`)
+console.log(`BlueTable`,`Redpill`,`GreenCapsule`)
