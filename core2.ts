@@ -23,5 +23,4 @@ typeof Uint32Array
 typeof Uint8ClampedArray
 type interface11namespace11 = bugyellow
 type interface22namespace22 = RedClerk
-type namespace3namespace4 = wonderland
 console.log(`BlueTable`,`Redpill`,`GreenCapsule`)
